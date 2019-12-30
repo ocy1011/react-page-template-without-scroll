@@ -1,0 +1,4 @@
+export const UPDATE_CONTENTS = "UPDATE_CONTENTS";
+export const UPDATE_INDEX = "UPDATE_INDEX";
+export const UPDATE_TOUCH_Y = "UPDATE_TOUCH_Y";
+export const FINISH_MOVE = "FINISH_MOVE";

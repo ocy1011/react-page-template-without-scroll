@@ -1,6 +1,6 @@
 import React from "react";
-import Provider from "./store";
-import Container from "./components/Container";
+import Provider from "../store";
+import Container from "./Container";
 
 interface IProps {
   contents: React.ReactNode[];
